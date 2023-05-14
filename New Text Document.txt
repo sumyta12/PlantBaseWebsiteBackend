@@ -1,0 +1,4 @@
+#install package name
+1 . npx create-react-app my-app
+2 . npm install react-router-dom
+
